@@ -22,7 +22,7 @@ This project uses pytest for running tests. Install it by rinning:
 pip install pytest
 ```
 
-After that run go to the folder that contains this repository and run the tests:
+Once it's installed go to the folder that contains this repository and run the tests:
 ```
 # pytest
 ```
